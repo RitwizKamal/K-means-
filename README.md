@@ -1,4 +1,4 @@
-# K-means-
+# K-means-plus-plus
 An implementation of the K-means++ clustering algorithm
 (A variation of the normal K-means algorithm)
 
